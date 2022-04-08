@@ -1,0 +1,19 @@
+# Rumble Eliu
+
+Rumble Eliu is a plugin for Chromium based browsers that changes the dynamic of watching videos.
+
+It hides replies and adds a button to help you show it if you want.
+
+## Installation
+
+Go to chrome extensions and install it from there.
+
+## Contributing
+Pull requests are welcome. Please open an issue first to discuss what you would like to change and make a list specifying what are adding.
+
+## Contributors
+
+[Eliu Prachedes Moraes](https://github.com/eliumoraes)
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
