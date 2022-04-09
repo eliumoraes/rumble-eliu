@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+
+  "name": "Rumble Eliu",
+  "version": "0.1.0",
+  "description": "Rumble Eliu is a plugin for Chromium based browsers that changes the dynamic of watching videos. Go to github to see all features.",
+
+  "content_scripts": [
+    {
+      "css": ["styles.css"],
+      "js": ["content.js"],
+      "matches": ["https://rumble.com/*"]
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
